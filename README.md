@@ -1,7 +1,7 @@
 # Miata Dash Project
 ## This page is built to document the process of building my Raspberry Pi powered dashboard in my 1999 Mazda Miata.
 
-##Links
+## Links
 - https://www.thingiverse.com/thing:4892851 Mount for 7" Display
 - https://www.hifiberry.com/shop/boards/hifiberry-amp2/ Sound Card / 2 channel amplifier
 - http://timers.shop/6V-28V-10-Amp-Timer-POSITIVE-OUTPUT_p_13.html Current Timer
