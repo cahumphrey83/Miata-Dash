@@ -7,19 +7,17 @@ Knowing that I want the ability to perform changes to the tune without a laptop,
 
 ## Hardware
 - [Raspberry Pi 4 (4GB)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
-- The Display - Raspberry Pi Official 7" Touchscreen - https://www.raspberrypi.org/products/raspberry-pi-touch-display/
-- Audio - HiFiBerry amp2 - https://www.hifiberry.com/shop/boards/hifiberry-amp2/
-- Raspberry Pi Terminal Block - https://www.amazon.com/gp/product/B084C69VSQ/
-- 10 Amp Timer - http://timers.shop/6V-28V-10-Amp-Timer-POSITIVE-OUTPUT_p_13.html
-
-
+- [Raspberry Pi Official 7" Touchscreen](https://www.raspberrypi.org/products/raspberry-pi-touch-display/)
+- [HiFiBerry amp2](https://www.hifiberry.com/shop/boards/hifiberry-amp2/)
+- [Raspberry Pi Terminal Block](https://www.amazon.com/gp/product/B084C69VSQ/)
+- [10 Amp Timer](http://timers.shop/6V-28V-10-Amp-Timer-POSITIVE-OUTPUT_p_13.html)
 
 ## Software
-- OpenAuto Pro (currently running version 9) - https://bluewavestudio.io/shop/openauto-pro-car-head-unit-solution/ 
-- TunerStudio Ultra - http://tunerstudio.com/
+- [OpenAuto Pro](https://bluewavestudio.io/shop/openauto-pro-car-head-unit-solution/)
+- [TunerStudio Ultra](http://tunerstudio.com/)
 
 ## 3D Printing
-- 3D Printed Mount for Raspberry Pi 7" Display to 1999-2005 NB Miata - https://www.thingiverse.com/thing:4892851
+- [3D Printed Mount for Raspberry Pi 7" Display](https://www.thingiverse.com/thing:4892851)
 
 ## TLDR Links
 - Hardware
