@@ -14,7 +14,6 @@ Knowing that I want the ability to perform changes to the tune without a laptop,
   - [10 Amp Timer](http://timers.shop/6V-28V-10-Amp-Timer-POSITIVE-OUTPUT_p_13.html)
   - Automotive Relays
 
-
 ### Step 1 - Connect the Raspberry Pi to the 7" Touchscreen Display
 
 The hardware stack I used had simplicity and compatibility at the front of my mind. When working with the Official 7" Touchscreen display, the Pi will mount to the standoffs on the back of the display. it simply connects with a ribbon cable for the display, and 4 wires run to the GPIO header for power and touchscreen controls.
@@ -26,12 +25,17 @@ The hardware stack I used had simplicity and compatibility at the front of my mi
   - SDA (Green Wire)
   - SCL (Yellow Wire)
   - GND (Black Wire)
-3. Attach the Raspberry Pi to the metal standoffs on the back of the display. Make sure that the Pi is oriented properly to allow the ribbon cable from the display to connect to the Pi.
+3. Attach the Raspberry Pi to the metal standoffs on the back of the display with the included machine screws. Make sure that the Pi is oriented properly to allow the ribbon cable from the display to connect to the Pi.
 4. Attach the ribbon cable from the display to the Raspberry Pi.
-5. Connect the 
+5. (Optional) If you are skipping the HiFiBerry Amp2, then you will now need to connect the jumpers from the diplay to the GPIO headers on the Pi.
+   - 5V (Red Wire) to pin 4
+   - GND (Black Wire) to pin 6
+   - SDA (Green Wire) to pin 3
+   - SCL (Yellow Wire) to Pin 5
 
+### Step 2 - Connect HiFiBerry Amp2 to the Pi
 
-
+   
 
 ## Software
 - [OpenAuto Pro](https://bluewavestudio.io/shop/openauto-pro-car-head-unit-solution/)
