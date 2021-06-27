@@ -6,7 +6,7 @@ My goal was to create a display to monitor coolant temp and boost levels on my c
 Knowing that I want the ability to perform changes to the tune without a laptop, the two options I was considering were either a tablet or a Raspberry Pi based setup. I wasn't happy with any of the mounting solutions that I'd found for tablets, and was worried about the hardware performance compared to a Pi. Once I settled on a Raspberry Pi 4, it was time to choose the rest of the hardware involved.
 
 ## Hardware
-- The Brain - Raspberry Pi 4 (4GB) - https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
+- [Raspberry Pi 4 (4GB)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 - The Display - Raspberry Pi Official 7" Touchscreen - https://www.raspberrypi.org/products/raspberry-pi-touch-display/
 - Audio - HiFiBerry amp2 - https://www.hifiberry.com/shop/boards/hifiberry-amp2/
 - Raspberry Pi Terminal Block - https://www.amazon.com/gp/product/B084C69VSQ/
