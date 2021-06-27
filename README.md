@@ -20,11 +20,11 @@ The hardware stack I used had simplicity and compatibility at the front of my mi
 
 1. Connect the video ribbon cable to the display.
 2. When looking at the back of the display, connect the jumper wires front left to right, in the following order:
-  - 5V (Red Wire)
-  - Blank Pin (No Wire)
-  - SDA (Green Wire)
-  - SCL (Yellow Wire)
-  - GND (Black Wire)
+   - 5V (Red Wire)
+   - Blank Pin (No Wire)
+   - SDA (Green Wire)
+   - SCL (Yellow Wire)
+   - GND (Black Wire)
 3. Attach the Raspberry Pi to the metal standoffs on the back of the display with the included machine screws. Make sure that the Pi is oriented properly to allow the ribbon cable from the display to connect to the Pi.
 4. Attach the ribbon cable from the display to the Raspberry Pi.
 5. (Optional) If you are skipping the HiFiBerry Amp2, then you will now need to connect the jumpers from the diplay to the GPIO headers on the Pi.
