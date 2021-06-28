@@ -69,10 +69,12 @@ The Amp2 will work with any input voltage from 12-24V. When powering the amp2, t
 
 ### Step 2 - Tuner Studio
 
-
+Coming Soon...
 
 ## 3D Printing
 - [3D Printed Mount for Raspberry Pi 7" Display](https://www.thingiverse.com/thing:4892851)
+
+Coming soon...
 
 ## TLDR Links
 - Hardware
