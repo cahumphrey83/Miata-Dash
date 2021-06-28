@@ -36,9 +36,26 @@ The hardware stack I used had simplicity and compatibility at the front of my mi
 
 ### Step 2 - Connect HiFiBerry Amp2 to the Pi
 
+1. If your Pi is attached with screws to the standoffs on the Display, remove the screws and fasten the Pi to the display with appropriate sized standoffs.
+2. Install the Amp2 onto the Pi by lining up the GPIO header.
+   - The GPIO pins on the Amp2 are much shorter than the pins on the Pi. You may have issues with the jumper wires not being properly secured. If you want a better connection, I would recommend also adding a header extender and terminal block to make the wiring connections more secure and easier to work with.
+3. Secure the Amp2 with machine screws or more standoffs depending on if you plan to add the header extender and terminal block.
 
+### Step 3 (Optional) - Connect Header Extender and Terminal Block
 
-### Step 3 - Connect Header Extender and Terminal Block
+I was not happy with the quality of the connection of the jumper wires to the Amp2 header. In order to get a better connection, I opted to add a header extender and a terminal block which allows me to create a very secure connection.
+
+1. Install GPIO header extender.
+2. Install standoffs of appropriate length.
+3. Install terminal block.
+
+### Step 4 - Powering it up / Speaker Wiring
+
+The Amp2 will work with any input voltage from 12-24V. When powering the amp2, the display and Pi will also automatically power up. This means you can run this whole setup off of your 12V system in your car without requiring any step down voltage converters or buck converters.
+
+- For bench testing, you will need to use a DC power supply that outputs anywhere from 12-24V.
+- For installation in a vehicle, you can power this whole setup by tying into your switched ignition wire, and a ground wire. I bought a stereo harness and tapped into the switched ignition wire. I ran a separate dedicated ground wire to chassis ground.
+- If you decided to run an Amp2 and plan to have functional speakers, you can wire your stereo harness directly to the speaker outputs on the Amp2. This makes wiring very simple and clean, and you have a stereo harness that can be removed with one plug and one ground wire.
 
 ## Software
 - [OpenAuto Pro](https://bluewavestudio.io/shop/openauto-pro-car-head-unit-solution/)
