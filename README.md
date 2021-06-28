@@ -17,7 +17,7 @@ Knowing that I want the ability to perform changes to the tune without a laptop,
 
 ### Step 1 - Connect the Raspberry Pi to the 7" Touchscreen Display
 
-The hardware stack I used had simplicity and compatibility at the front of my mind. When working with the Official 7" Touchscreen display, the Pi will mount to the standoffs on the back of the display. it simply connects with a ribbon cable for the display, and 4 wires run to the GPIO header for power and touchscreen controls.
+The hardware stack I used had simplicity and compatibility at the front of my mind. When working with the Official 7" Touchscreen display, the Pi will mount to the standoffs on the back of the display. It simply connects with a ribbon cable for the display, and 4 wires run to the GPIO header for power and touchscreen controls.
 
 1. Connect the video ribbon cable to the display.
 2. When looking at the back of the display, connect the jumper wires front left to right, in the following order:
