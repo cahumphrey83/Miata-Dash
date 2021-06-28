@@ -61,6 +61,16 @@ The Amp2 will work with any input voltage from 12-24V. When powering the amp2, t
 - [OpenAuto Pro](https://bluewavestudio.io/shop/openauto-pro-car-head-unit-solution/)
 - [TunerStudio Ultra](http://tunerstudio.com/)
 
+### Step 1 - Open Auto Pro
+
+1. Purchase Open Auto Pro, available here: https://bluewavestudio.io/
+2. Download Image and follow instructions here to flash image to SD Card - https://www.raspberrypi.org/documentation/installation/installing-images/
+3. Boot system and enter Open Auto Pro serial number, system should now be ready for use.
+
+### Step 2 - Tuner Studio
+
+
+
 ## 3D Printing
 - [3D Printed Mount for Raspberry Pi 7" Display](https://www.thingiverse.com/thing:4892851)
 
